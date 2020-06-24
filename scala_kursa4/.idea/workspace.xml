@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e86bf1a5-57af-4e83-a3cd-787f28fdf444" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="168" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dloZ8pMxo2hd8GgZDmN0jNYEbt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.Scala" />
+  </component>
+  <component name="RunManager" selected="ScalaTest.ScalaTests in 'scala'">
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="scala_kursa4" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScalaTests in 'scala'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="scala_kursa4" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="classBuf">
+        <list>
+          <option value="lab1test" />
+          <option value="lab2test" />
+          <option value="lab3test" />
+          <option value="lab4test" />
+        </list>
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testPackagePath" value="" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Stronger\IdeaProjects\scala_kursa4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab1test" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="scala_kursa4" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="lab1test" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Stronger\IdeaProjects\scala_kursa4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab2test" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="scala_kursa4" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="lab2test" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Stronger\IdeaProjects\scala_kursa4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab4test" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="scala_kursa4" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="lab4test" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Stronger\IdeaProjects\scala_kursa4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Scala REPL.Scala REPL" />
+      <item itemvalue="ScalaTest.ScalaTests in 'scala'" />
+      <item itemvalue="ScalaTest.lab1test" />
+      <item itemvalue="ScalaTest.lab2test" />
+      <item itemvalue="ScalaTest.lab4test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.ScalaTests in 'scala'" />
+        <item itemvalue="ScalaTest.lab2test" />
+        <item itemvalue="Scala REPL.Scala REPL" />
+        <item itemvalue="ScalaTest.lab4test" />
+        <item itemvalue="ScalaTest.lab1test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scala_kursa4" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scala_kursa4 [file:/C:/Users/Stronger/IdeaProjects/scala_kursa4/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="scala_kursa4-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3186024149730" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3210969624" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1916534729" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e86bf1a5-57af-4e83-a3cd-787f28fdf444" name="Default Changelist" comment="" />
+      <created>1593009093693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593009093693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="802" y="173" key="#Inspections" timestamp="1593012689710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="802" y="173" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1593012689710" />
+    <state x="559" y="125" key="#Project_Structure" timestamp="1593011191159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="559" y="125" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1593011191159" />
+    <state x="747" y="152" key="#ScalaTests_in_'scala'" timestamp="1593014618928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="152" key="#ScalaTests_in_'scala'/0.0.1920.1040@0.0.1920.1040" timestamp="1593014618928" />
+    <state x="828" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593015237736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593015237736" />
+    <state x="897" y="511" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593009155815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="897" y="511" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593009155815" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1593017065336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593017065336" />
+    <state width="1876" height="429" key="GridCell.Tab.0.bottom" timestamp="1593019105566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="429" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593019105566" />
+    <state width="1876" height="429" key="GridCell.Tab.0.center" timestamp="1593019105565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="429" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593019105565" />
+    <state width="1876" height="429" key="GridCell.Tab.0.left" timestamp="1593019105565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="429" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593019105565" />
+    <state width="1876" height="429" key="GridCell.Tab.0.right" timestamp="1593019105565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="429" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593019105565" />
+    <state x="711" y="147" key="SettingsEditor" timestamp="1593012681949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="147" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593012681949" />
+    <state x="816" y="373" key="chooseDestDirectoryDialog" timestamp="1593009631314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="373" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593009631314" />
+    <state x="342" y="243" key="new project wizard" timestamp="1593018048293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="243" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593018048293" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scala_kursa4$ScalaTests_in__scala_.ic" NAME="ScalaTests in 'scala' Coverage Results" MODIFIED="1593018372216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
